@@ -1,2 +1,2 @@
 # tj
-NFT trading journal - Project
+tj - Project
